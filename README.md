@@ -1,3 +1,3 @@
 # AngularJS
 Lern AngularJS
-Solutions tasks for the course AngularJS Essential
+<h2>Solutions tasks for the course AngularJS Essential</h2>
